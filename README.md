@@ -1,3 +1,4 @@
+Git is a distributed version control system.
 # ATS_autest
 note ATS_autest
 
@@ -100,4 +101,4 @@ git push
 username & password
 
 
-
+t is a distributed version control system.
