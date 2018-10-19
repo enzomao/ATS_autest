@@ -88,7 +88,16 @@ Console options:
 
 						
 						
-						
+sudo apt-get install git
+git config --global user.name "Your Name"
+git config --global user.email "email@example.com"
+git clone https://github.com/enzomao/ATS_autest.git
+cd 
+git status
+git add -A
+git commit -m ""
+git push
+username & password
 
 
 
